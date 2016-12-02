@@ -156,7 +156,7 @@
 		<item id="33171" title="Tiefgestellt" tooltip="Tiefgestellt" status="" short=""/>
 		<item id="33174" title="Antworten" tooltip="Antworten" status="" short=""/>
 		<item id="33176" title="Antwort löschen" tooltip="Antwort löschen" status="" short=""/>
-		<item id="33179" title="&amp;Neue Version suchen..." tooltip="" status="" short=""/>
+		<item id="33179" title="&amp;Nach neuer Version suchen..." tooltip="" status="" short=""/>
 		<item id="33182" title="Als reinen Text &amp;kopieren" tooltip="Als reinen Text kopieren" status="" short=""/>
 		<item id="33183" title="Als formatierten Text kopieren" tooltip="Als formatierten Text kopieren" status="" short=""/>
 		<item id="33184" title="Als &apos;Rich Text&apos; kopieren" tooltip="Als &apos;Rich Text&apos; kopieren" status="" short=""/>
@@ -2970,7 +2970,7 @@
 		<item id="1000" text="Neues Lesezeichen hinzufügen"/>
 		<item id="1001" text="Lesezeichen verschieben"/>
 		<item id="1002" text="Lesezeichen verschieben"/>
-		<item id="1003" text="Doppelklick, um ein Dokument zu öffnen"/>
+		<item id="1003" text="Doppelklicken um ein existierendes Dokument zu öffnen..."/>
 		<item id="1004" text="Es konnten nicht alle Einstellungen in die Datei &quot;%1&quot; gespeichert werden."/>
 		<item id="1005" text="Konnte das Dokument nicht per eMail versenden.&#10;&#10;%1"/>
 		<item id="1006" text="Text suchen mit &quot;%1&quot;"/>
